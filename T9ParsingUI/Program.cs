@@ -20,7 +20,7 @@ namespace T9
                 Console.WriteLine("Please select an option from below:");
                 Console.WriteLine("1. Press 1 for small dataset");
                 Console.WriteLine("2. Press 2 for large dataset");
-                Console.WriteLine("3. Press any 3 to exit");
+                Console.WriteLine("3. Press 3 to clear the screen");
                 Console.WriteLine("4. Press any other key to exit");
 
                 var key = Console.ReadKey().KeyChar;
